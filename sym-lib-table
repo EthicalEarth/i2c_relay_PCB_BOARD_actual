@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PCF8574AN-rescue)(type Legacy)(uri ${KIPRJMOD}/PCF8574AN-rescue.lib)(options "")(descr ""))
+)
